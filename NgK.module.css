@@ -1,0 +1,146 @@
+.group-child5,
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+}
+.group-child5 {
+  background-color: #f3e7e7;
+  width: 700px;
+  height: 621px;
+}
+.group-child6 {
+  background-color: var(--color-gainsboro);
+  width: 282px;
+  height: 91.26px;
+}
+.ng-k1 {
+  position: absolute;
+  top: 28px;
+  left: 77px;
+  display: inline-block;
+  width: 142px;
+  height: 37px;
+}
+.ng-k-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+}
+.ng-k3 {
+  position: absolute;
+  height: 40.54%;
+  width: 50.35%;
+  top: 30.68%;
+  left: 27.3%;
+  display: inline-block;
+}
+.ng-k2,
+.rectangle-parent6 {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  width: 282px;
+  height: 91.26px;
+}
+.rectangle-parent6 {
+  top: 487px;
+  left: 209px;
+  width: 289px;
+  font-size: var(--font-size-11xl);
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 555px;
+  height: 91.26px;
+}
+.tn-ng-k {
+  position: absolute;
+  top: 21.24px;
+  left: 71px;
+  display: inline-block;
+  width: 267px;
+  height: 49px;
+}
+.rectangle-icon,
+.rectangle-parent7 {
+  position: absolute;
+  width: 555px;
+  height: 91.26px;
+}
+.rectangle-parent7 {
+  top: 54.76px;
+  left: 77px;
+}
+.rectangle-icon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+}
+.email {
+  top: 21.29px;
+  left: 71px;
+  display: inline-block;
+  width: 185px;
+  height: 48.67px;
+}
+.email,
+.s-in-thoi {
+  position: absolute;
+}
+.vector-parent4,
+.vector-parent5 {
+  position: absolute;
+  top: 163px;
+  left: 77px;
+  width: 555px;
+  height: 91.26px;
+}
+.vector-parent5 {
+  top: 379px;
+}
+.s-in-thoi {
+  top: 22px;
+  left: 71px;
+  display: inline-block;
+  width: 278px;
+  height: 49px;
+}
+.vector-parent6 {
+  position: absolute;
+  top: 271px;
+  left: 77px;
+  width: 555px;
+  height: 91.26px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 700px;
+  height: 621px;
+}
+.ng-k {
+  position: relative;
+  width: 700px;
+  height: 621px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}
